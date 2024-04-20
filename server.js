@@ -11,7 +11,7 @@ app.use(express.static(path.join(__dirname, 'public')));
 
 // Ruta de inicio
 app.get('/', (req, res) => {
-    res.sendFile(path.join(__dirname, 'public', 'index.js'));
+    res.sendFile(path.join(__dirname, 'public', 'index.html'));
 });
 
 app.use(express.json());
