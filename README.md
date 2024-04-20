@@ -13,8 +13,8 @@ Este proyecto corresponde a la tercera unidad del curso "Fundamentals of Secure 
 
 
 
-
-  ##Favor de ignorar lo que sigue solo es una broma para mi mismo
+# Favor de ignorar lo que sigue solo es una broma para mi mismo
+  
 
 
 Llore, me arranque los pelos, le reze a dios, lo mate y cuando toda esperanza se habia acabado me di cuenta que: 
